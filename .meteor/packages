@@ -1,0 +1,44 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+meteor-platform
+less
+twbs:bootstrap
+fortawesome:fontawesome
+jquery
+
+
+webapp
+cfs:standard-packages
+cfs:gridfs
+
+
+
+
+
+udondan:jszip
+erasaur:meteor-lodash
+reactive-var
+mrt:smart-publish
+ground:db
+alanning:roles
+accounts-password
+accounts-base
+
+workman:templating-ext
+meteorhacks:aggregate
+matb33:collection-hooks
+urigo:angular
+angular:angular-mocks
+sanjo:jasmine
+velocity:html-reporter
+mquandalle:bower
+service-configuration
+appcache
+meteorhacks:npm
+
+
+npm-container
